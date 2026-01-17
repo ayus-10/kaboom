@@ -1,0 +1,6 @@
+[submodule "kaboom_server"]
+	path = kaboom_server
+	url = https://github.com/ayus-10/kaboom_server.git
+[submodule "kaboom-app"]
+	path = kaboom-app
+	url = https://github.com/ayus-10/kaboom-app.git
