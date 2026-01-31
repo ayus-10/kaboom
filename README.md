@@ -1,14 +1,12 @@
-# Update Instructions
+# Kaboom 💥
 
-```bash
-# 1. Clone
-git clone --recursive https://github.com/ayus-10/kaboom.git king-kaboom
+Create embeddable chat widgets for your website and chat instantly with your visitors. Let your team efficiently handle incoming conversations by managing multiple projects and collaborating in real-time. Keep your visitors’ chat organized with pending approvals and admin control.
 
-# 2. Update submodules to latest
-git submodule update --remote --merge
+## Features 🚀
 
-# 3. Push to GitHub
-git add kaboom-app kaboom_server
-git commit -m "Update submodules to latest HEAD"
-git push origin main
-```
+- 👥 Visitors can start anonymous conversations  
+- ⏳ Conversations start in a **pending** state  
+- ✅ Admins can accept pending conversations  
+- 💬 Real-time messaging inside conversations  
+- 📁 Supports multiple projects  
+- 👩‍💼👨‍💼 Multiple admins per project  
